@@ -1,32 +1,24 @@
-"""Create comments table
+"""Add movie_id column to comments table
 
-Revision ID: 35b194211194
-Revises: fed1c1a16490
-Create Date: 2024-08-16 00:11:14.418478
+Revision ID: 7c3f6d8e2052
+Revises: 35b194211194
+Create Date: 2024-07-14 23:52:12.630561
 
 """
 from typing import Sequence, Union
-
 from alembic import op
 import sqlalchemy as sa
 
-
 # revision identifiers, used by Alembic.
-revision: str = '35b194211194'
-down_revision: Union[str, None] = 'fed1c1a16490'
+revision: str = '7c3f6d8e2052'
+down_revision: Union[str, None] = '35b194211194'
 branch_labels: Union[str, Sequence[str], None] = None
 depends_on: Union[str, Sequence[str], None] = None
 
-
 def upgrade() -> None:
-    op.create_table(
-        'comments',
-        sa.Column('id', sa.Integer(), primary_key=True),
-        sa.Column('comment', sa.String(), nullable=False),
-        sa.Column('movie_id', sa.Integer(), nullable=True),
-        sa.ForeignKeyConstraint(['movie_id'], ['movies.id']),
-    )
-
+    op.add_column('comments', sa.Column('movie_id', sa.Integer(), nullable=True))
+    op.create_foreign_key(None, 'comments', 'movies', ['movie_id'], ['id'])
 
 def downgrade() -> None:
-    op.drop_table('comments')
+    op.drop_constraint(None, 'comments', type_='foreignkey')
+    op.drop_column('comments', 'movie_id')
