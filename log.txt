@@ -1,0 +1,228 @@
+DEBUG:__main__:This message will be recorded.
+INFO:__main__:This message will be recorded.
+WARNING:__main__:This message will be recorded.
+ERROR:__main__:This message will be recorded.
+CRITICAL:__main__:This message will be recorded.
+DEBUG:__main__:This message will be recorded.
+INFO:__main__:This message will be recorded.
+WARNING:__main__:This message will be recorded.
+ERROR:__main__:This message will be recorded.
+CRITICAL:__main__:This message will be recorded.
+ERROR:__main__:This message will be recorded.
+CRITICAL:__main__:This message will be recorded.
+2024-08-12 23:07:53,293 DEBUG __main__ This message will be recorded.
+2024-08-12 23:07:53,293 INFO __main__ This message will be recorded.
+2024-08-12 23:07:53,293 WARNING __main__ This message will be recorded.
+2024-08-12 23:07:53,293 ERROR __main__ This message will be recorded.
+2024-08-12 23:07:53,293 CRITICAL __main__ This message will be recorded.
+2024-08-12 23:10:02,665 DEBUG This message will be recorded. __main__
+2024-08-12 23:10:02,665 INFO This message will be recorded. __main__
+2024-08-12 23:10:02,666 WARNING This message will be recorded. __main__
+2024-08-12 23:10:02,666 ERROR This message will be recorded. __main__
+2024-08-12 23:10:02,666 CRITICAL This message will be recorded. __main__
+2024-08-12 23:10:18,252 DEBUG This message will be recorded. This message will be recorded.
+2024-08-12 23:10:18,252 INFO This message will be recorded. This message will be recorded.
+2024-08-12 23:10:18,252 WARNING This message will be recorded. This message will be recorded.
+2024-08-12 23:10:18,252 ERROR This message will be recorded. This message will be recorded.
+2024-08-12 23:10:18,252 CRITICAL This message will be recorded. This message will be recorded.
+2024-08-12 23:10:54,611 DEBUG __main__ This message will be recorded.
+2024-08-12 23:10:54,611 INFO __main__ This message will be recorded.
+2024-08-12 23:10:54,611 WARNING __main__ This message will be recorded.
+2024-08-12 23:10:54,611 ERROR __main__ This message will be recorded.
+2024-08-12 23:10:54,611 CRITICAL __main__ This message will be recorded.
+2024-08-14 14:55:51,520 DEBUG logger This message will be recorded.
+2024-08-14 14:55:51,671 INFO logger This message will be recorded.
+2024-08-14 14:55:51,671 WARNING logger This message will be recorded.
+2024-08-14 14:55:51,671 ERROR logger This message will be recorded.
+2024-08-14 14:55:51,671 CRITICAL logger This message will be recorded.
+2024-08-14 14:56:11,653 DEBUG logger This message will be recorded.
+2024-08-14 14:56:11,653 INFO logger This message will be recorded.
+2024-08-14 14:56:11,653 WARNING logger This message will be recorded.
+2024-08-14 14:56:11,653 ERROR logger This message will be recorded.
+2024-08-14 14:56:11,653 CRITICAL logger This message will be recorded.
+2024-08-14 14:56:15,573 DEBUG logger This message will be recorded.
+2024-08-14 14:56:15,573 INFO logger This message will be recorded.
+2024-08-14 14:56:15,573 WARNING logger This message will be recorded.
+2024-08-14 14:56:15,573 ERROR logger This message will be recorded.
+2024-08-14 14:56:15,573 CRITICAL logger This message will be recorded.
+2024-08-14 14:56:58,443 DEBUG logger This message will be recorded.
+2024-08-14 14:56:58,443 INFO logger This message will be recorded.
+2024-08-14 14:56:58,443 WARNING logger This message will be recorded.
+2024-08-14 14:56:58,443 ERROR logger This message will be recorded.
+2024-08-14 14:56:58,443 CRITICAL logger This message will be recorded.
+2024-08-14 14:57:01,031 DEBUG logger This message will be recorded.
+2024-08-14 14:57:01,031 INFO logger This message will be recorded.
+2024-08-14 14:57:01,031 WARNING logger This message will be recorded.
+2024-08-14 14:57:01,031 ERROR logger This message will be recorded.
+2024-08-14 14:57:01,031 CRITICAL logger This message will be recorded.
+2024-08-14 14:57:29,973 DEBUG logger This message will be recorded.
+2024-08-14 14:57:30,323 INFO logger This message will be recorded.
+2024-08-14 14:57:30,323 WARNING logger This message will be recorded.
+2024-08-14 14:57:30,323 ERROR logger This message will be recorded.
+2024-08-14 14:57:30,323 CRITICAL logger This message will be recorded.
+2024-08-14 14:57:34,922 DEBUG logger This message will be recorded.
+2024-08-14 14:57:34,922 INFO logger This message will be recorded.
+2024-08-14 14:57:34,923 WARNING logger This message will be recorded.
+2024-08-14 14:57:34,923 ERROR logger This message will be recorded.
+2024-08-14 14:57:34,923 CRITICAL logger This message will be recorded.
+2024-08-14 14:57:56,186 DEBUG logger This message will be recorded.
+2024-08-14 14:57:56,186 INFO logger This message will be recorded.
+2024-08-14 14:57:56,186 WARNING logger This message will be recorded.
+2024-08-14 14:57:56,186 ERROR logger This message will be recorded.
+2024-08-14 14:57:56,186 CRITICAL logger This message will be recorded.
+2024-08-14 14:59:13,822 DEBUG logger This message will be recorded.
+2024-08-14 14:59:13,822 INFO logger This message will be recorded.
+2024-08-14 14:59:13,822 WARNING logger This message will be recorded.
+2024-08-14 14:59:13,822 ERROR logger This message will be recorded.
+2024-08-14 14:59:13,822 CRITICAL logger This message will be recorded.
+2024-08-14 14:59:26,093 DEBUG logger This message will be recorded.
+2024-08-14 14:59:26,093 INFO logger This message will be recorded.
+2024-08-14 14:59:26,100 WARNING logger This message will be recorded.
+2024-08-14 14:59:26,100 ERROR logger This message will be recorded.
+2024-08-14 14:59:26,100 CRITICAL logger This message will be recorded.
+2024-08-14 15:00:56,311 DEBUG logger This message will be recorded.
+2024-08-14 15:00:56,311 INFO logger This message will be recorded.
+2024-08-14 15:00:56,311 WARNING logger This message will be recorded.
+2024-08-14 15:00:56,311 ERROR logger This message will be recorded.
+2024-08-14 15:00:56,311 CRITICAL logger This message will be recorded.
+2024-08-14 15:00:59,488 DEBUG logger This message will be recorded.
+2024-08-14 15:00:59,490 INFO logger This message will be recorded.
+2024-08-14 15:00:59,490 WARNING logger This message will be recorded.
+2024-08-14 15:00:59,491 ERROR logger This message will be recorded.
+2024-08-14 15:00:59,491 CRITICAL logger This message will be recorded.
+2024-08-14 15:01:22,553 DEBUG logger This message will be recorded.
+2024-08-14 15:01:22,553 INFO logger This message will be recorded.
+2024-08-14 15:01:22,553 WARNING logger This message will be recorded.
+2024-08-14 15:01:22,553 ERROR logger This message will be recorded.
+2024-08-14 15:01:22,553 CRITICAL logger This message will be recorded.
+2024-08-14 15:01:25,153 DEBUG logger This message will be recorded.
+2024-08-14 15:01:25,153 INFO logger This message will be recorded.
+2024-08-14 15:01:25,153 WARNING logger This message will be recorded.
+2024-08-14 15:01:25,153 ERROR logger This message will be recorded.
+2024-08-14 15:01:25,153 CRITICAL logger This message will be recorded.
+2024-08-14 15:01:28,337 DEBUG logger This message will be recorded.
+2024-08-14 15:01:28,338 INFO logger This message will be recorded.
+2024-08-14 15:01:28,338 WARNING logger This message will be recorded.
+2024-08-14 15:01:28,338 ERROR logger This message will be recorded.
+2024-08-14 15:01:28,338 CRITICAL logger This message will be recorded.
+2024-08-14 15:02:44,901 INFO main Creating user...
+2024-08-14 15:02:44,928 INFO main User successfully created.
+2024-08-14 15:02:45,607 DEBUG passlib.handlers.bcrypt detected 'bcrypt' backend, version '3.2.0'
+2024-08-14 15:02:45,608 DEBUG passlib.handlers.bcrypt 'bcrypt' backend lacks $2$ support, enabling workaround
+2024-08-14 15:03:05,074 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:03:05,074 DEBUG multipart.multipart Calling on_field_name with data[0:10]
+2024-08-14 15:03:05,074 DEBUG multipart.multipart Calling on_field_data with data[11:19]
+2024-08-14 15:03:05,074 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:03:05,074 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:03:05,074 DEBUG multipart.multipart Calling on_field_name with data[20:28]
+2024-08-14 15:03:05,074 DEBUG multipart.multipart Calling on_field_data with data[29:32]
+2024-08-14 15:03:05,074 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:03:05,074 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:03:05,075 DEBUG multipart.multipart Calling on_field_name with data[33:41]
+2024-08-14 15:03:05,075 DEBUG multipart.multipart Calling on_field_data with data[42:48]
+2024-08-14 15:03:05,075 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:03:05,075 DEBUG multipart.multipart Calling on_end with no data
+2024-08-14 15:03:05,112 INFO main Generating authentication token...
+2024-08-14 15:03:39,728 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:03:39,728 DEBUG multipart.multipart Calling on_field_name with data[0:10]
+2024-08-14 15:03:39,728 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:03:39,728 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:03:39,728 DEBUG multipart.multipart Calling on_field_name with data[12:20]
+2024-08-14 15:03:39,728 DEBUG multipart.multipart Calling on_field_data with data[21:24]
+2024-08-14 15:03:39,728 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_name with data[25:33]
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_data with data[34:40]
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_name with data[41:46]
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_name with data[48:57]
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_name with data[59:72]
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:03:39,729 DEBUG multipart.multipart Calling on_end with no data
+2024-08-14 15:03:39,732 INFO main Generating authentication token...
+2024-08-14 15:05:47,966 DEBUG logger This message will be recorded.
+2024-08-14 15:05:47,966 INFO logger This message will be recorded.
+2024-08-14 15:05:47,966 WARNING logger This message will be recorded.
+2024-08-14 15:05:47,966 ERROR logger This message will be recorded.
+2024-08-14 15:05:47,966 CRITICAL logger This message will be recorded.
+2024-08-14 15:12:41,211 DEBUG logger This message will be recorded.
+2024-08-14 15:12:41,211 INFO logger This message will be recorded.
+2024-08-14 15:12:41,211 WARNING logger This message will be recorded.
+2024-08-14 15:12:41,211 ERROR logger This message will be recorded.
+2024-08-14 15:12:41,211 CRITICAL logger This message will be recorded.
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_name with data[0:10]
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_name with data[12:20]
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_data with data[21:24]
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_name with data[25:33]
+2024-08-14 15:13:12,063 DEBUG multipart.multipart Calling on_field_data with data[34:40]
+2024-08-14 15:13:12,064 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:12,064 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:12,064 DEBUG multipart.multipart Calling on_field_name with data[41:46]
+2024-08-14 15:13:12,064 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:12,064 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:12,064 DEBUG multipart.multipart Calling on_field_name with data[48:57]
+2024-08-14 15:13:12,065 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:12,065 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:12,065 DEBUG multipart.multipart Calling on_field_name with data[59:72]
+2024-08-14 15:13:12,065 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:12,065 DEBUG multipart.multipart Calling on_end with no data
+2024-08-14 15:13:12,080 INFO main Generating authentication token...
+2024-08-14 15:13:12,121 DEBUG passlib.handlers.bcrypt detected 'bcrypt' backend, version '3.2.0'
+2024-08-14 15:13:12,121 DEBUG passlib.handlers.bcrypt 'bcrypt' backend lacks $2$ support, enabling workaround
+2024-08-14 15:13:44,081 DEBUG logger This message will be recorded.
+2024-08-14 15:13:44,081 INFO logger This message will be recorded.
+2024-08-14 15:13:44,081 WARNING logger This message will be recorded.
+2024-08-14 15:13:44,081 ERROR logger This message will be recorded.
+2024-08-14 15:13:44,081 CRITICAL logger This message will be recorded.
+2024-08-14 15:13:45,840 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:45,841 DEBUG multipart.multipart Calling on_field_name with data[0:10]
+2024-08-14 15:13:45,842 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:45,842 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:45,842 DEBUG multipart.multipart Calling on_field_name with data[12:20]
+2024-08-14 15:13:45,842 DEBUG multipart.multipart Calling on_field_data with data[21:24]
+2024-08-14 15:13:45,842 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:45,842 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:45,842 DEBUG multipart.multipart Calling on_field_name with data[25:33]
+2024-08-14 15:13:45,843 DEBUG multipart.multipart Calling on_field_data with data[34:40]
+2024-08-14 15:13:45,843 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:45,843 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:45,844 DEBUG multipart.multipart Calling on_field_name with data[41:46]
+2024-08-14 15:13:45,844 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:45,844 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:45,844 DEBUG multipart.multipart Calling on_field_name with data[48:57]
+2024-08-14 15:13:45,844 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:45,844 DEBUG multipart.multipart Calling on_field_start with no data
+2024-08-14 15:13:45,844 DEBUG multipart.multipart Calling on_field_name with data[59:72]
+2024-08-14 15:13:45,845 DEBUG multipart.multipart Calling on_field_end with no data
+2024-08-14 15:13:45,845 DEBUG multipart.multipart Calling on_end with no data
+2024-08-14 15:13:45,858 INFO main Generating authentication token...
+2024-08-14 15:13:45,896 DEBUG passlib.handlers.bcrypt detected 'bcrypt' backend, version '3.2.0'
+2024-08-14 15:13:45,896 DEBUG passlib.handlers.bcrypt 'bcrypt' backend lacks $2$ support, enabling workaround
+2024-08-14 15:13:46,313 INFO main Token generated for Ife
+2024-08-14 15:15:16,935 INFO main Creating user...
+2024-08-14 15:15:16,939 WARNING main User with string already exists.
+2024-08-14 15:50:54,191 DEBUG logger This message will be recorded.
+2024-08-14 15:50:54,191 INFO logger This message will be recorded.
+2024-08-14 15:50:54,191 WARNING logger This message will be recorded.
+2024-08-14 15:50:54,191 ERROR logger This message will be recorded.
+2024-08-14 15:50:54,191 CRITICAL logger This message will be recorded.
+2024-08-14 15:51:05,924 DEBUG logger This message will be recorded.
+2024-08-14 15:51:05,924 INFO logger This message will be recorded.
+2024-08-14 15:51:05,924 WARNING logger This message will be recorded.
+2024-08-14 15:51:05,924 ERROR logger This message will be recorded.
+2024-08-14 15:51:05,924 CRITICAL logger This message will be recorded.
+2024-08-14 15:51:50,393 DEBUG logger This message will be recorded.
+2024-08-14 15:51:50,393 INFO logger This message will be recorded.
+2024-08-14 15:51:50,393 WARNING logger This message will be recorded.
+2024-08-14 15:51:50,393 ERROR logger This message will be recorded.
+2024-08-14 15:51:50,393 CRITICAL logger This message will be recorded.
